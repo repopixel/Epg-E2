@@ -14,5 +14,5 @@ cd\0hjr\RepoAttoPixel
 git init
 git add .
 git commit -m "versao 1.0"
-git pull origin master
+git push origin master
 pause
