@@ -1,8 +1,4 @@
 @Echo off
-c:
-cd\7z1900
-7za e F:\0HJr\RepoAttoPixel\guide.xml.gz F:\0HJr\RepoAttoPixel
-PAUSE
 f:
 cd\0HJr\RepoAttoPixel
 fart guide.xml "   </title>" "</title>"
